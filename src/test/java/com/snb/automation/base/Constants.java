@@ -14,7 +14,7 @@ public class Constants {
     public static final int wait_time=60;
     public static final String CSRscreenShot_Path="/SNB-AutomationFrameWork/Screenshots/CSR/";
     public static final String OAPscreenShot_Path="/SNB-AutomationFrameWork/Screenshots/OAP/";
-    public static final String reprotConfigFilePath="\\SNB-AutomationFrameWork\\src\\test\\resources\\ReportConfig.xml";
+    public static final String reprotConfigFilePath="./src/test/resources/ReportConfig.xml";
     public static final String logConfigxmlPath="\\SNB-AutomationFrameWork\\src\\test\\resources\\log4j.xml";
 
     
