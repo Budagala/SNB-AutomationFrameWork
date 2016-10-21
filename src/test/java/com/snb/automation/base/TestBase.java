@@ -24,12 +24,12 @@ public class TestBase {
 	protected ExtentTest snbTestCases;
 	protected WebDriverWait wait;
 	
-	@Parameters({"projectURL","reportType","browser","logxmlfilepath"})
+	@Parameters({"projectURL","reportType","browser"})
 	@BeforeClass
 	//public void globalSetUP(String projectURL, String reportType,String browser)
-	public void globalSetUP(String projectURL, String reportType,String browser,String logxmlfilepath)
+	public void globalSetUP(String projectURL, String reportType,String browser)
 	{
-		DOMConfigurator.configure(logxmlfilepath);
+		DOMConfigurator.configure(Constants.logConfigxmlPath);
 		snbreports = ExtentManager.instance(reportType);	
 		driver = BrowserFactory.openBrowser(browser,projectURL);
 		wait= new WebDriverWait(driver, Constants.wait_time);

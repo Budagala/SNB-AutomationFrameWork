@@ -13,7 +13,6 @@
 			value="http://localhost:7777/portalserver/snb-csr/index"></parameter>
 		<parameter name="reportType" value="./CSRTestReports/ExtentReport.html"></parameter>
 		<parameter name="browser" value="chrome"></parameter>
-	    <parameter name="logxmlfilepath" value="./src/test/resources/log4j.xml"></parameter>
 	<classes>
 			<class name="com.snb.CSR.automation.testcases.SNBUSA41CSRLogin" />
 			<!-- <class name="com.snb.automation.testcases.CSRLandingPageTestCases"></class> -->
