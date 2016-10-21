@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SNB Automation Suite]">
+  <parameter name="reportType" value="./CSRTestReports/ExtentReport.html"/>
+  <parameter name="projectURL" value="http://localhost:7777/portalserver/snb-csr/index"/>
+  <parameter name="browser" value="chrome"/>
+  <test name="SNB-CSR Portal TestCases(failed)">
+    <parameter name="reportType" value="./CSRTestReports/ExtentReport.html"/>
+    <parameter name="projectURL" value="http://localhost:7777/portalserver/snb-csr/index"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.snb.CSR.automation.testcases.SNBUSA41CSRLogin">
+        <methods>
+          <include name="globalSetUP"/>
+          <include name="CSRverifyLogin"/>
+          <include name="closeBrowser"/>
+          <include name="afterTestCompletes"/>
+        </methods>
+      </class> <!-- com.snb.CSR.automation.testcases.SNBUSA41CSRLogin -->
+    </classes>
+  </test> <!-- SNB-CSR Portal TestCases(failed) -->
+</suite> <!-- Failed suite [SNB Automation Suite] -->

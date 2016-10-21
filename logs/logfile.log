@@ -1,0 +1,1560 @@
+2016-10-13 18:30:12,113 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 18:30:12,114 INFO  [Log] X 
+2016-10-13 18:30:12,114 INFO  [Log] X 
+2016-10-13 18:30:12,114 INFO  [Log] X 
+2016-10-13 18:30:12,114 INFO  [Log] X 
+2016-10-13 18:30:12,127 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 18:30:12,127 INFO  [Log] X 
+2016-10-13 18:30:12,128 INFO  [Log] X 
+2016-10-13 18:30:12,128 INFO  [Log] X 
+2016-10-13 18:30:12,128 INFO  [Log] X 
+2016-10-13 18:30:12,145 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 18:30:12,145 INFO  [Log] X 
+2016-10-13 18:30:12,145 INFO  [Log] X 
+2016-10-13 18:30:12,145 INFO  [Log] X 
+2016-10-13 18:30:12,145 INFO  [Log] X 
+2016-10-13 22:25:42,470 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:25:42,471 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:25:42,471 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut()       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 22:25:42,471 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:25:42,471 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:26:13,679 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut() :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir12520_27176}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: eee480c58413423c93b3b47ad6940c4e
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 22:26:13,702 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 22:26:13,702 INFO  [Log] X 
+2016-10-13 22:26:13,702 INFO  [Log] X 
+2016-10-13 22:26:13,702 INFO  [Log] X 
+2016-10-13 22:26:13,702 INFO  [Log] X 
+2016-10-13 22:26:43,053 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:26:43,054 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:26:43,054 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut()       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 22:26:43,054 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:26:43,054 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:26:48,598 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut() :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 104 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir976_18064}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e4938d06b273a660af4e9860ed082e27
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 22:26:48,694 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 22:26:48,694 INFO  [Log] X 
+2016-10-13 22:26:48,694 INFO  [Log] X 
+2016-10-13 22:26:48,694 INFO  [Log] X 
+2016-10-13 22:26:48,694 INFO  [Log] X 
+2016-10-13 22:28:22,754 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:28:22,755 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:28:22,755 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut()       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 22:28:22,755 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:28:22,755 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:28:26,689 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut() :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 64 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir10508_18914}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 42841a47e60c6d03234cbd01a360fb18
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 22:28:26,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 22:28:26,697 INFO  [Log] X 
+2016-10-13 22:28:26,697 INFO  [Log] X 
+2016-10-13 22:28:26,698 INFO  [Log] X 
+2016-10-13 22:28:26,698 INFO  [Log] X 
+2016-10-13 22:44:46,819 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:44:46,820 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:44:46,820 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut()       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 22:44:46,820 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:44:46,820 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:44:50,401 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut() :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 78 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir12900_11940}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9cc0aa58bcc9df079ca413f908298e9b
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 22:44:50,415 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 22:44:50,415 INFO  [Log] X 
+2016-10-13 22:44:50,415 INFO  [Log] X 
+2016-10-13 22:44:50,416 INFO  [Log] X 
+2016-10-13 22:44:50,416 INFO  [Log] X 
+2016-10-13 22:46:54,970 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:46:54,971 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:46:54,971 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut()       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 22:46:54,971 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:46:54,971 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:46:58,886 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut() :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 62 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir12000_6301}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ab22312c324f19fdb87827b798257b18
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 22:46:58,897 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 22:46:58,897 INFO  [Log] X 
+2016-10-13 22:46:58,897 INFO  [Log] X 
+2016-10-13 22:46:58,897 INFO  [Log] X 
+2016-10-13 22:46:58,897 INFO  [Log] X 
+2016-10-13 22:54:20,471 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:54:20,472 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:54:20,472 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 22:54:20,472 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:54:20,472 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:54:25,134 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir7704_7542}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 52c8f1e56c8cea9f84bb5004f3aa0dc1
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 22:54:25,147 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 22:54:25,147 INFO  [Log] X 
+2016-10-13 22:54:25,147 INFO  [Log] X 
+2016-10-13 22:54:25,147 INFO  [Log] X 
+2016-10-13 22:54:25,147 INFO  [Log] X 
+2016-10-13 22:59:09,065 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:59:09,066 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:59:09,066 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 22:59:09,066 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:59:09,066 INFO  [Log] **************************************************************************************** 
+2016-10-13 22:59:13,677 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 108 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir1816_20057}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 30d17be2ea357aabb98962dc74b5997b
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 22:59:13,689 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 22:59:13,689 INFO  [Log] X 
+2016-10-13 22:59:13,689 INFO  [Log] X 
+2016-10-13 22:59:13,689 INFO  [Log] X 
+2016-10-13 22:59:13,689 INFO  [Log] X 
+2016-10-13 23:02:14,859 INFO  [Log] **************************************************************************************** 
+2016-10-13 23:02:14,859 INFO  [Log] **************************************************************************************** 
+2016-10-13 23:02:14,860 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-13 23:02:14,860 INFO  [Log] **************************************************************************************** 
+2016-10-13 23:02:14,860 INFO  [Log] **************************************************************************************** 
+2016-10-13 23:02:20,908 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir14316_10963}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ad1c56b465f6ebb44c1652f70ac66f8c
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-13 23:02:20,915 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-13 23:02:20,915 INFO  [Log] X 
+2016-10-13 23:02:20,915 INFO  [Log] X 
+2016-10-13 23:02:20,915 INFO  [Log] X 
+2016-10-13 23:02:20,915 INFO  [Log] X 
+2016-10-14 07:22:03,340 INFO  [Log] **************************************************************************************** 
+2016-10-14 07:22:03,341 INFO  [Log] **************************************************************************************** 
+2016-10-14 07:22:03,341 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 07:22:03,341 INFO  [Log] **************************************************************************************** 
+2016-10-14 07:22:03,341 INFO  [Log] **************************************************************************************** 
+2016-10-14 07:22:07,644 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir12548_6744}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6387a7c1a6c96f3b0d597875f30e46ef
+*** Element info: {Using=class name, value=bi bi-pm-on-off bi-l} 
+2016-10-14 07:22:07,665 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 07:22:07,665 INFO  [Log] X 
+2016-10-14 07:22:07,665 INFO  [Log] X 
+2016-10-14 07:22:07,665 INFO  [Log] X 
+2016-10-14 07:22:07,665 INFO  [Log] X 
+2016-10-14 14:35:35,844 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:35:35,845 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:35:35,846 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:35:35,846 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:35:35,846 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:35:42,769 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:35:42,770 INFO  [Log] X 
+2016-10-14 14:35:42,770 INFO  [Log] X 
+2016-10-14 14:35:42,770 INFO  [Log] X 
+2016-10-14 14:35:42,770 INFO  [Log] X 
+2016-10-14 14:36:31,969 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:36:31,969 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:36:31,970 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:36:31,970 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:36:31,970 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:36:35,547 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:36:35,547 INFO  [Log] X 
+2016-10-14 14:36:35,547 INFO  [Log] X 
+2016-10-14 14:36:35,548 INFO  [Log] X 
+2016-10-14 14:36:35,548 INFO  [Log] X 
+2016-10-14 14:38:12,217 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:38:12,218 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:38:12,218 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:38:12,218 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:38:12,218 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:38:20,093 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:38:20,093 INFO  [Log] X 
+2016-10-14 14:38:20,094 INFO  [Log] X 
+2016-10-14 14:38:20,094 INFO  [Log] X 
+2016-10-14 14:38:20,094 INFO  [Log] X 
+2016-10-14 14:40:48,488 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:40:48,489 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:40:48,489 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:40:48,489 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:40:48,489 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:40:58,577 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:40:58,578 INFO  [Log] X 
+2016-10-14 14:40:58,578 INFO  [Log] X 
+2016-10-14 14:40:58,578 INFO  [Log] X 
+2016-10-14 14:40:58,578 INFO  [Log] X 
+2016-10-14 14:42:02,084 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:42:02,085 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:42:02,085 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:42:02,085 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:42:02,085 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:42:12,741 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:42:12,741 INFO  [Log] X 
+2016-10-14 14:42:12,741 INFO  [Log] X 
+2016-10-14 14:42:12,741 INFO  [Log] X 
+2016-10-14 14:42:12,741 INFO  [Log] X 
+2016-10-14 14:44:49,029 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:44:49,030 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:44:49,030 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:44:49,030 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:44:49,030 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:45:04,281 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:45:04,282 INFO  [Log] X 
+2016-10-14 14:45:04,282 INFO  [Log] X 
+2016-10-14 14:45:04,282 INFO  [Log] X 
+2016-10-14 14:45:04,282 INFO  [Log] X 
+2016-10-14 14:46:56,127 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:46:56,128 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:46:56,128 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:46:56,128 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:46:56,128 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:47:12,417 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:47:12,418 INFO  [Log] X 
+2016-10-14 14:47:12,418 INFO  [Log] X 
+2016-10-14 14:47:12,418 INFO  [Log] X 
+2016-10-14 14:47:12,418 INFO  [Log] X 
+2016-10-14 14:48:59,149 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:48:59,150 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:48:59,150 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:48:59,150 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:48:59,150 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:49:14,506 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:49:14,506 INFO  [Log] X 
+2016-10-14 14:49:14,506 INFO  [Log] X 
+2016-10-14 14:49:14,506 INFO  [Log] X 
+2016-10-14 14:49:14,506 INFO  [Log] X 
+2016-10-14 14:56:12,553 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:56:12,554 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:56:12,554 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 14:56:12,554 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:56:12,554 INFO  [Log] **************************************************************************************** 
+2016-10-14 14:56:23,726 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 14:56:23,727 INFO  [Log] X 
+2016-10-14 14:56:23,727 INFO  [Log] X 
+2016-10-14 14:56:23,727 INFO  [Log] X 
+2016-10-14 14:56:23,727 INFO  [Log] X 
+2016-10-14 16:37:01,527 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:37:01,528 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:37:01,528 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 16:37:01,529 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:37:01,529 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:37:19,866 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 16:37:19,867 INFO  [Log] X 
+2016-10-14 16:37:19,867 INFO  [Log] X 
+2016-10-14 16:37:19,867 INFO  [Log] X 
+2016-10-14 16:37:19,867 INFO  [Log] X 
+2016-10-14 16:41:29,374 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:41:29,375 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:41:29,375 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 16:41:29,375 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:41:29,375 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:41:46,675 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 16:41:46,675 INFO  [Log] X 
+2016-10-14 16:41:46,675 INFO  [Log] X 
+2016-10-14 16:41:46,675 INFO  [Log] X 
+2016-10-14 16:41:46,675 INFO  [Log] X 
+2016-10-14 16:50:09,040 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:50:09,040 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:50:09,040 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 16:50:09,040 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:50:09,040 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:50:26,252 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 16:50:26,252 INFO  [Log] X 
+2016-10-14 16:50:26,252 INFO  [Log] X 
+2016-10-14 16:50:26,253 INFO  [Log] X 
+2016-10-14 16:50:26,253 INFO  [Log] X 
+2016-10-14 16:51:00,536 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:51:00,536 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:51:00,536 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 16:51:00,536 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:51:00,536 INFO  [Log] **************************************************************************************** 
+2016-10-14 16:51:19,255 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 16:51:19,255 INFO  [Log] X 
+2016-10-14 16:51:19,255 INFO  [Log] X 
+2016-10-14 16:51:19,255 INFO  [Log] X 
+2016-10-14 16:51:19,255 INFO  [Log] X 
+2016-10-14 17:07:59,374 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:07:59,375 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:07:59,375 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 17:07:59,375 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:07:59,375 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:08:18,409 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.InvalidSelectorException: invalid selector: Compound class names not permitted
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir9816_20395}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 560bc64d1458842a270443a6e20c8e73
+*** Element info: {Using=class name, value=logout pull-right height-90} 
+2016-10-14 17:08:18,416 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 17:08:18,416 INFO  [Log] X 
+2016-10-14 17:08:18,416 INFO  [Log] X 
+2016-10-14 17:08:18,416 INFO  [Log] X 
+2016-10-14 17:08:18,416 INFO  [Log] X 
+2016-10-14 17:11:37,622 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:11:37,622 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:11:37,622 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 17:11:37,623 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:11:37,623 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:12:54,824 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@text = 'Log Out']"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir5628_10365}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0ac2c022036717fe11cfea7cf127514f
+*** Element info: {Using=xpath, value=//*[@text = 'Log Out']} 
+2016-10-14 17:12:54,829 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 17:12:54,829 INFO  [Log] X 
+2016-10-14 17:12:54,829 INFO  [Log] X 
+2016-10-14 17:12:54,829 INFO  [Log] X 
+2016-10-14 17:12:54,829 INFO  [Log] X 
+2016-10-14 17:15:10,127 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:15:10,128 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:15:10,128 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 17:15:10,128 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:15:10,128 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:15:28,839 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir10328_28437}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9a5ac77a04c6bc500f9f607b2f945454 
+2016-10-14 17:15:28,844 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 17:15:28,844 INFO  [Log] X 
+2016-10-14 17:15:28,844 INFO  [Log] X 
+2016-10-14 17:15:28,845 INFO  [Log] X 
+2016-10-14 17:15:28,845 INFO  [Log] X 
+2016-10-14 17:17:58,520 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:17:58,520 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:17:58,520 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 17:17:58,520 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:17:58,520 INFO  [Log] **************************************************************************************** 
+2016-10-14 17:18:17,319 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 17:18:17,319 INFO  [Log] X 
+2016-10-14 17:18:17,319 INFO  [Log] X 
+2016-10-14 17:18:17,319 INFO  [Log] X 
+2016-10-14 17:18:17,319 INFO  [Log] X 
+2016-10-14 19:37:22,716 INFO  [Log] **************************************************************************************** 
+2016-10-14 19:37:22,717 INFO  [Log] **************************************************************************************** 
+2016-10-14 19:37:22,717 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-14 19:37:22,717 INFO  [Log] **************************************************************************************** 
+2016-10-14 19:37:22,717 INFO  [Log] **************************************************************************************** 
+2016-10-14 19:37:42,589 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-14 19:37:42,590 INFO  [Log] X 
+2016-10-14 19:37:42,590 INFO  [Log] X 
+2016-10-14 19:37:42,590 INFO  [Log] X 
+2016-10-14 19:37:42,590 INFO  [Log] X 
+2016-10-15 18:45:06,018 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:45:06,024 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:45:06,024 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 18:45:06,024 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:45:06,024 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:45:26,934 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 18:45:26,935 INFO  [Log] X 
+2016-10-15 18:45:26,935 INFO  [Log] X 
+2016-10-15 18:45:26,935 INFO  [Log] X 
+2016-10-15 18:45:26,935 INFO  [Log] X 
+2016-10-15 18:49:47,277 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:49:47,278 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:49:47,278 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 18:49:47,278 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:49:47,278 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:50:07,040 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 18:50:07,040 INFO  [Log] X 
+2016-10-15 18:50:07,040 INFO  [Log] X 
+2016-10-15 18:50:07,040 INFO  [Log] X 
+2016-10-15 18:50:07,040 INFO  [Log] X 
+2016-10-15 18:52:36,577 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:52:36,578 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:52:36,578 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 18:52:36,578 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:52:36,578 INFO  [Log] **************************************************************************************** 
+2016-10-15 18:52:55,974 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 18:52:55,974 INFO  [Log] X 
+2016-10-15 18:52:55,974 INFO  [Log] X 
+2016-10-15 18:52:55,974 INFO  [Log] X 
+2016-10-15 18:52:55,974 INFO  [Log] X 
+2016-10-15 22:19:38,130 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:19:38,201 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:19:38,201 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 22:19:38,201 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:19:38,201 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:19:57,462 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 22:19:57,462 INFO  [Log] X 
+2016-10-15 22:19:57,462 INFO  [Log] X 
+2016-10-15 22:19:57,462 INFO  [Log] X 
+2016-10-15 22:19:57,462 INFO  [Log] X 
+2016-10-15 22:22:44,143 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:22:44,144 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:22:44,144 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 22:22:44,144 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:22:44,144 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:23:02,862 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 22:23:02,862 INFO  [Log] X 
+2016-10-15 22:23:02,862 INFO  [Log] X 
+2016-10-15 22:23:02,862 INFO  [Log] X 
+2016-10-15 22:23:02,862 INFO  [Log] X 
+2016-10-15 22:26:38,518 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:26:38,520 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:26:38,520 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 22:26:38,520 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:26:38,521 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:26:59,612 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 22:26:59,612 INFO  [Log] X 
+2016-10-15 22:26:59,612 INFO  [Log] X 
+2016-10-15 22:26:59,612 INFO  [Log] X 
+2016-10-15 22:26:59,612 INFO  [Log] X 
+2016-10-15 22:28:19,531 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:28:19,532 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:28:19,532 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 22:28:19,532 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:28:19,532 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:28:43,234 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 22:28:43,234 INFO  [Log] X 
+2016-10-15 22:28:43,234 INFO  [Log] X 
+2016-10-15 22:28:43,234 INFO  [Log] X 
+2016-10-15 22:28:43,234 INFO  [Log] X 
+2016-10-15 22:33:44,376 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:33:44,376 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:33:44,376 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 22:33:44,376 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:33:44,377 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:34:05,601 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 22:34:05,601 INFO  [Log] X 
+2016-10-15 22:34:05,601 INFO  [Log] X 
+2016-10-15 22:34:05,601 INFO  [Log] X 
+2016-10-15 22:34:05,601 INFO  [Log] X 
+2016-10-15 22:35:24,471 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:35:24,472 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:35:24,472 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 22:35:24,472 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:35:24,472 INFO  [Log] **************************************************************************************** 
+2016-10-15 22:35:48,703 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 22:35:48,703 INFO  [Log] X 
+2016-10-15 22:35:48,703 INFO  [Log] X 
+2016-10-15 22:35:48,703 INFO  [Log] X 
+2016-10-15 22:35:48,703 INFO  [Log] X 
+2016-10-15 23:13:47,695 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:13:47,696 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:13:47,696 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 23:13:47,696 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:13:47,696 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:14:11,947 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 23:14:11,947 INFO  [Log] X 
+2016-10-15 23:14:11,947 INFO  [Log] X 
+2016-10-15 23:14:11,947 INFO  [Log] X 
+2016-10-15 23:14:11,947 INFO  [Log] X 
+2016-10-15 23:19:43,126 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:19:43,127 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:19:43,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-15 23:19:43,127 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:19:43,129 INFO  [Log] **************************************************************************************** 
+2016-10-15 23:20:07,462 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-15 23:20:07,463 INFO  [Log] X 
+2016-10-15 23:20:07,463 INFO  [Log] X 
+2016-10-15 23:20:07,463 INFO  [Log] X 
+2016-10-15 23:20:07,463 INFO  [Log] X 
+2016-10-16 16:51:22,008 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:51:22,010 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:51:22,010 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 16:51:22,010 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:51:22,010 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:51:35,608 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 16:51:35,609 INFO  [Log] X 
+2016-10-16 16:51:35,609 INFO  [Log] X 
+2016-10-16 16:51:35,609 INFO  [Log] X 
+2016-10-16 16:51:35,610 INFO  [Log] X 
+2016-10-16 16:58:50,970 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:58:50,971 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:58:50,971 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 16:58:50,971 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:58:50,972 INFO  [Log] **************************************************************************************** 
+2016-10-16 16:59:04,410 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 16:59:04,411 INFO  [Log] X 
+2016-10-16 16:59:04,411 INFO  [Log] X 
+2016-10-16 16:59:04,411 INFO  [Log] X 
+2016-10-16 16:59:04,411 INFO  [Log] X 
+2016-10-16 17:00:17,144 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:00:17,145 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:00:17,145 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 17:00:17,145 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:00:17,145 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:00:30,554 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 17:00:30,555 INFO  [Log] X 
+2016-10-16 17:00:30,555 INFO  [Log] X 
+2016-10-16 17:00:30,555 INFO  [Log] X 
+2016-10-16 17:00:30,555 INFO  [Log] X 
+2016-10-16 17:03:51,420 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:03:51,421 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:03:51,421 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 17:03:51,421 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:03:51,421 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:04:04,914 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 17:04:04,915 INFO  [Log] X 
+2016-10-16 17:04:04,915 INFO  [Log] X 
+2016-10-16 17:04:04,915 INFO  [Log] X 
+2016-10-16 17:04:04,915 INFO  [Log] X 
+2016-10-16 17:11:07,511 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:11:07,512 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:11:07,512 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 17:11:07,512 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:11:07,512 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:11:21,267 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 17:11:21,267 INFO  [Log] X 
+2016-10-16 17:11:21,268 INFO  [Log] X 
+2016-10-16 17:11:21,268 INFO  [Log] X 
+2016-10-16 17:11:21,268 INFO  [Log] X 
+2016-10-16 17:16:47,314 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:16:47,315 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:16:47,315 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 17:16:47,316 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:16:47,316 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:17:01,167 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 17:17:01,167 INFO  [Log] X 
+2016-10-16 17:17:01,167 INFO  [Log] X 
+2016-10-16 17:17:01,168 INFO  [Log] X 
+2016-10-16 17:17:01,168 INFO  [Log] X 
+2016-10-16 17:18:53,196 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:18:53,196 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:18:53,197 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 17:18:53,197 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:18:53,197 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:19:06,514 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 17:19:06,515 INFO  [Log] X 
+2016-10-16 17:19:06,515 INFO  [Log] X 
+2016-10-16 17:19:06,515 INFO  [Log] X 
+2016-10-16 17:19:06,515 INFO  [Log] X 
+2016-10-16 17:23:20,004 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:23:20,004 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:23:20,004 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 17:23:20,004 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:23:20,005 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:23:33,206 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 17:23:33,206 INFO  [Log] X 
+2016-10-16 17:23:33,206 INFO  [Log] X 
+2016-10-16 17:23:33,207 INFO  [Log] X 
+2016-10-16 17:23:33,207 INFO  [Log] X 
+2016-10-16 17:25:39,881 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:25:39,882 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:25:39,882 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 17:25:39,882 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:25:39,882 INFO  [Log] **************************************************************************************** 
+2016-10-16 17:25:53,137 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 17:25:53,138 INFO  [Log] X 
+2016-10-16 17:25:53,138 INFO  [Log] X 
+2016-10-16 17:25:53,138 INFO  [Log] X 
+2016-10-16 17:25:53,138 INFO  [Log] X 
+2016-10-16 18:00:38,437 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:00:38,438 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:00:38,439 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 18:00:38,439 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:00:38,439 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:00:51,640 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 18:00:51,640 INFO  [Log] X 
+2016-10-16 18:00:51,640 INFO  [Log] X 
+2016-10-16 18:00:51,640 INFO  [Log] X 
+2016-10-16 18:00:51,640 INFO  [Log] X 
+2016-10-16 18:15:34,287 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:15:34,287 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:15:34,288 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 18:15:34,288 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:15:34,288 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:15:47,900 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 18:15:47,900 INFO  [Log] X 
+2016-10-16 18:15:47,900 INFO  [Log] X 
+2016-10-16 18:15:47,900 INFO  [Log] X 
+2016-10-16 18:15:47,900 INFO  [Log] X 
+2016-10-16 18:18:37,107 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:18:37,107 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:18:37,107 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-16 18:18:37,107 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:18:37,108 INFO  [Log] **************************************************************************************** 
+2016-10-16 18:18:50,975 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 18:18:50,976 INFO  [Log] X 
+2016-10-16 18:18:50,976 INFO  [Log] X 
+2016-10-16 18:18:50,976 INFO  [Log] X 
+2016-10-16 18:18:50,976 INFO  [Log] X 
+2016-10-16 18:45:45,588 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 18:45:45,589 INFO  [Log] X 
+2016-10-16 18:45:45,590 INFO  [Log] X 
+2016-10-16 18:45:45,590 INFO  [Log] X 
+2016-10-16 18:45:45,590 INFO  [Log] X 
+2016-10-16 18:51:29,661 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 18:51:29,662 INFO  [Log] X 
+2016-10-16 18:51:29,662 INFO  [Log] X 
+2016-10-16 18:51:29,662 INFO  [Log] X 
+2016-10-16 18:51:29,662 INFO  [Log] X 
+2016-10-16 18:55:11,039 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 18:55:11,040 INFO  [Log] X 
+2016-10-16 18:55:11,040 INFO  [Log] X 
+2016-10-16 18:55:11,040 INFO  [Log] X 
+2016-10-16 18:55:11,040 INFO  [Log] X 
+2016-10-16 18:56:15,490 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 18:56:15,491 INFO  [Log] X 
+2016-10-16 18:56:15,491 INFO  [Log] X 
+2016-10-16 18:56:15,491 INFO  [Log] X 
+2016-10-16 18:56:15,491 INFO  [Log] X 
+2016-10-16 19:00:13,973 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 19:00:13,974 INFO  [Log] X 
+2016-10-16 19:00:13,974 INFO  [Log] X 
+2016-10-16 19:00:13,974 INFO  [Log] X 
+2016-10-16 19:00:13,974 INFO  [Log] X 
+2016-10-16 19:59:59,683 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 19:59:59,684 INFO  [Log] X 
+2016-10-16 19:59:59,684 INFO  [Log] X 
+2016-10-16 19:59:59,684 INFO  [Log] X 
+2016-10-16 19:59:59,684 INFO  [Log] X 
+2016-10-16 20:05:00,551 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-16 20:05:00,552 INFO  [Log] X 
+2016-10-16 20:05:00,552 INFO  [Log] X 
+2016-10-16 20:05:00,552 INFO  [Log] X 
+2016-10-16 20:05:00,552 INFO  [Log] X 
+2016-10-17 08:48:11,051 INFO  [Log] **************************************************************************************** 
+2016-10-17 08:48:11,051 INFO  [Log] **************************************************************************************** 
+2016-10-17 08:48:11,051 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 08:48:11,052 INFO  [Log] **************************************************************************************** 
+2016-10-17 08:48:11,052 INFO  [Log] **************************************************************************************** 
+2016-10-17 08:49:27,504 ERROR [Log] Expection occured while executing test case:CSRverifyLoginandLogOut :org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"CSRLogout"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir8392_7574}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d398daa6ea5fa12adcac358a9f009d61
+*** Element info: {Using=xpath, value=CSRLogout} 
+2016-10-17 08:49:27,508 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 08:49:27,508 INFO  [Log] X 
+2016-10-17 08:49:27,508 INFO  [Log] X 
+2016-10-17 08:49:27,508 INFO  [Log] X 
+2016-10-17 08:49:27,508 INFO  [Log] X 
+2016-10-17 09:01:24,287 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:01:24,288 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:01:24,288 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 09:01:24,288 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:01:24,288 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:01:40,023 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 09:01:40,023 INFO  [Log] X 
+2016-10-17 09:01:40,023 INFO  [Log] X 
+2016-10-17 09:01:40,023 INFO  [Log] X 
+2016-10-17 09:01:40,023 INFO  [Log] X 
+2016-10-17 09:29:24,822 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:29:24,823 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:29:24,823 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 09:29:24,823 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:29:24,823 INFO  [Log] **************************************************************************************** 
+2016-10-17 09:29:40,528 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 09:29:40,528 INFO  [Log] X 
+2016-10-17 09:29:40,528 INFO  [Log] X 
+2016-10-17 09:29:40,528 INFO  [Log] X 
+2016-10-17 09:29:40,528 INFO  [Log] X 
+2016-10-17 14:14:58,279 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:14:58,295 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:14:58,296 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:14:58,296 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:14:58,297 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:15:21,557 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:15:21,558 INFO  [Log] X 
+2016-10-17 14:15:21,558 INFO  [Log] X 
+2016-10-17 14:15:21,558 INFO  [Log] X 
+2016-10-17 14:15:21,558 INFO  [Log] X 
+2016-10-17 14:21:36,450 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:21:36,451 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:21:36,451 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:21:36,451 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:21:36,451 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:21:52,303 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:21:52,303 INFO  [Log] X 
+2016-10-17 14:21:52,303 INFO  [Log] X 
+2016-10-17 14:21:52,303 INFO  [Log] X 
+2016-10-17 14:21:52,303 INFO  [Log] X 
+2016-10-17 14:24:36,693 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:24:36,694 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:24:36,694 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:24:36,694 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:24:36,694 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:24:55,714 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:24:55,714 INFO  [Log] X 
+2016-10-17 14:24:55,714 INFO  [Log] X 
+2016-10-17 14:24:55,714 INFO  [Log] X 
+2016-10-17 14:24:55,714 INFO  [Log] X 
+2016-10-17 14:33:13,998 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:33:13,999 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:33:13,999 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:33:13,999 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:33:13,999 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:33:32,961 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:33:32,961 INFO  [Log] X 
+2016-10-17 14:33:32,961 INFO  [Log] X 
+2016-10-17 14:33:32,961 INFO  [Log] X 
+2016-10-17 14:33:32,961 INFO  [Log] X 
+2016-10-17 14:35:44,433 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:35:44,434 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:35:44,434 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:35:44,434 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:35:44,434 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:36:04,600 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:36:04,600 INFO  [Log] X 
+2016-10-17 14:36:04,600 INFO  [Log] X 
+2016-10-17 14:36:04,600 INFO  [Log] X 
+2016-10-17 14:36:04,600 INFO  [Log] X 
+2016-10-17 14:37:08,098 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:37:08,099 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:37:08,099 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:37:08,099 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:37:08,099 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:37:28,239 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:37:28,239 INFO  [Log] X 
+2016-10-17 14:37:28,239 INFO  [Log] X 
+2016-10-17 14:37:28,239 INFO  [Log] X 
+2016-10-17 14:37:28,239 INFO  [Log] X 
+2016-10-17 14:40:20,801 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:40:20,801 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:40:20,801 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:40:20,802 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:40:20,802 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:40:40,208 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:40:40,208 INFO  [Log] X 
+2016-10-17 14:40:40,208 INFO  [Log] X 
+2016-10-17 14:40:40,208 INFO  [Log] X 
+2016-10-17 14:40:40,208 INFO  [Log] X 
+2016-10-17 14:42:22,336 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:42:22,336 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:42:22,336 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:42:22,336 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:42:22,336 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:42:40,255 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:42:40,256 INFO  [Log] X 
+2016-10-17 14:42:40,256 INFO  [Log] X 
+2016-10-17 14:42:40,256 INFO  [Log] X 
+2016-10-17 14:42:40,256 INFO  [Log] X 
+2016-10-17 14:43:38,339 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:43:38,340 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:43:38,340 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:43:38,340 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:43:38,340 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:43:57,563 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:43:57,563 INFO  [Log] X 
+2016-10-17 14:43:57,563 INFO  [Log] X 
+2016-10-17 14:43:57,563 INFO  [Log] X 
+2016-10-17 14:43:57,563 INFO  [Log] X 
+2016-10-17 14:44:59,338 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:44:59,339 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:44:59,339 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:44:59,339 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:44:59,339 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:45:17,382 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:45:17,382 INFO  [Log] X 
+2016-10-17 14:45:17,382 INFO  [Log] X 
+2016-10-17 14:45:17,382 INFO  [Log] X 
+2016-10-17 14:45:17,382 INFO  [Log] X 
+2016-10-17 14:48:47,362 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:48:47,363 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:48:47,363 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:48:47,363 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:48:47,363 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:49:01,113 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:49:01,113 INFO  [Log] X 
+2016-10-17 14:49:01,113 INFO  [Log] X 
+2016-10-17 14:49:01,113 INFO  [Log] X 
+2016-10-17 14:49:01,113 INFO  [Log] X 
+2016-10-17 14:54:02,969 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:54:02,970 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:54:02,970 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 14:54:02,970 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:54:02,970 INFO  [Log] **************************************************************************************** 
+2016-10-17 14:54:16,709 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 14:54:16,709 INFO  [Log] X 
+2016-10-17 14:54:16,709 INFO  [Log] X 
+2016-10-17 14:54:16,709 INFO  [Log] X 
+2016-10-17 14:54:16,709 INFO  [Log] X 
+2016-10-17 15:00:24,471 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:00:24,472 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:00:24,472 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:00:24,472 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:00:24,472 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:00:38,244 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:00:38,244 INFO  [Log] X 
+2016-10-17 15:00:38,244 INFO  [Log] X 
+2016-10-17 15:00:38,244 INFO  [Log] X 
+2016-10-17 15:00:38,244 INFO  [Log] X 
+2016-10-17 15:02:40,588 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:02:40,589 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:02:40,589 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:02:40,589 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:02:40,589 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:03:00,475 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:03:00,475 INFO  [Log] X 
+2016-10-17 15:03:00,475 INFO  [Log] X 
+2016-10-17 15:03:00,475 INFO  [Log] X 
+2016-10-17 15:03:00,475 INFO  [Log] X 
+2016-10-17 15:08:24,344 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:08:24,345 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:08:24,345 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:08:24,345 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:08:24,345 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:08:44,048 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:08:44,049 INFO  [Log] X 
+2016-10-17 15:08:44,049 INFO  [Log] X 
+2016-10-17 15:08:44,049 INFO  [Log] X 
+2016-10-17 15:08:44,049 INFO  [Log] X 
+2016-10-17 15:20:34,285 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:20:34,286 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:20:34,286 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:20:34,286 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:20:34,286 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:20:53,125 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:20:53,125 INFO  [Log] X 
+2016-10-17 15:20:53,125 INFO  [Log] X 
+2016-10-17 15:20:53,126 INFO  [Log] X 
+2016-10-17 15:20:53,126 INFO  [Log] X 
+2016-10-17 15:27:31,655 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:27:31,655 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:27:31,655 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:27:31,655 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:27:31,655 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:27:50,330 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:27:50,330 INFO  [Log] X 
+2016-10-17 15:27:50,330 INFO  [Log] X 
+2016-10-17 15:27:50,330 INFO  [Log] X 
+2016-10-17 15:27:50,330 INFO  [Log] X 
+2016-10-17 15:31:39,773 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:31:39,773 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:31:39,774 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:31:39,774 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:31:39,774 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:31:58,630 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:31:58,630 INFO  [Log] X 
+2016-10-17 15:31:58,630 INFO  [Log] X 
+2016-10-17 15:31:58,630 INFO  [Log] X 
+2016-10-17 15:31:58,630 INFO  [Log] X 
+2016-10-17 15:37:59,253 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:37:59,254 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:37:59,254 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:37:59,254 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:37:59,254 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:37:59,277 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:37:59,277 INFO  [Log] X 
+2016-10-17 15:37:59,278 INFO  [Log] X 
+2016-10-17 15:37:59,278 INFO  [Log] X 
+2016-10-17 15:37:59,278 INFO  [Log] X 
+2016-10-17 15:39:12,057 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:39:12,058 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:39:12,058 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 15:39:12,058 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:39:12,058 INFO  [Log] **************************************************************************************** 
+2016-10-17 15:39:25,317 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 15:39:25,317 INFO  [Log] X 
+2016-10-17 15:39:25,317 INFO  [Log] X 
+2016-10-17 15:39:25,317 INFO  [Log] X 
+2016-10-17 15:39:25,317 INFO  [Log] X 
+2016-10-17 16:03:01,838 INFO  [Log] **************************************************************************************** 
+2016-10-17 16:03:01,839 INFO  [Log] **************************************************************************************** 
+2016-10-17 16:03:01,839 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 16:03:01,840 INFO  [Log] **************************************************************************************** 
+2016-10-17 16:03:01,840 INFO  [Log] **************************************************************************************** 
+2016-10-17 16:03:24,043 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 16:03:24,043 INFO  [Log] X 
+2016-10-17 16:03:24,043 INFO  [Log] X 
+2016-10-17 16:03:24,044 INFO  [Log] X 
+2016-10-17 16:03:24,044 INFO  [Log] X 
+2016-10-17 17:26:13,112 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:26:13,112 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:26:13,113 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 17:26:13,113 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:26:13,113 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:26:33,007 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 17:26:33,007 INFO  [Log] X 
+2016-10-17 17:26:33,007 INFO  [Log] X 
+2016-10-17 17:26:33,007 INFO  [Log] X 
+2016-10-17 17:26:33,007 INFO  [Log] X 
+2016-10-17 17:30:13,296 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:30:13,297 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:30:13,297 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 17:30:13,297 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:30:13,297 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:30:33,045 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 17:30:33,046 INFO  [Log] X 
+2016-10-17 17:30:33,046 INFO  [Log] X 
+2016-10-17 17:30:33,046 INFO  [Log] X 
+2016-10-17 17:30:33,046 INFO  [Log] X 
+2016-10-17 17:41:24,508 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:24,509 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:24,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 17:41:24,509 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:24,509 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:38,251 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 17:41:38,251 INFO  [Log] X 
+2016-10-17 17:41:38,251 INFO  [Log] X 
+2016-10-17 17:41:38,251 INFO  [Log] X 
+2016-10-17 17:41:38,251 INFO  [Log] X 
+2016-10-17 17:41:38,264 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:38,264 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:38,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 17:41:38,265 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:38,265 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:41:38,277 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 17:41:38,277 INFO  [Log] X 
+2016-10-17 17:41:38,277 INFO  [Log] X 
+2016-10-17 17:41:38,277 INFO  [Log] X 
+2016-10-17 17:41:38,277 INFO  [Log] X 
+2016-10-17 17:52:00,837 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:52:00,837 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:52:00,838 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 17:52:00,838 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:52:00,838 INFO  [Log] **************************************************************************************** 
+2016-10-17 17:52:20,744 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 17:52:20,745 INFO  [Log] X 
+2016-10-17 17:52:20,745 INFO  [Log] X 
+2016-10-17 17:52:20,745 INFO  [Log] X 
+2016-10-17 17:52:20,745 INFO  [Log] X 
+2016-10-17 18:01:05,477 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:01:05,478 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:01:05,478 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:01:05,478 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:01:05,478 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:01:25,454 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:01:25,454 INFO  [Log] X 
+2016-10-17 18:01:25,455 INFO  [Log] X 
+2016-10-17 18:01:25,455 INFO  [Log] X 
+2016-10-17 18:01:25,455 INFO  [Log] X 
+2016-10-17 18:02:49,067 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:02:49,068 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:02:49,068 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:02:49,068 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:02:49,068 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:03:07,917 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:03:07,917 INFO  [Log] X 
+2016-10-17 18:03:07,917 INFO  [Log] X 
+2016-10-17 18:03:07,917 INFO  [Log] X 
+2016-10-17 18:03:07,917 INFO  [Log] X 
+2016-10-17 18:03:07,942 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:03:07,942 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:03:07,942 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:03:07,942 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:03:07,942 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:03:07,958 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:03:07,958 INFO  [Log] X 
+2016-10-17 18:03:07,958 INFO  [Log] X 
+2016-10-17 18:03:07,958 INFO  [Log] X 
+2016-10-17 18:03:07,958 INFO  [Log] X 
+2016-10-17 18:07:29,053 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:29,053 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:29,054 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:07:29,054 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:29,054 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:42,932 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:07:42,933 INFO  [Log] X 
+2016-10-17 18:07:42,933 INFO  [Log] X 
+2016-10-17 18:07:42,933 INFO  [Log] X 
+2016-10-17 18:07:42,933 INFO  [Log] X 
+2016-10-17 18:07:42,946 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:42,946 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:42,946 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:07:42,947 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:42,947 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:07:42,961 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:07:42,962 INFO  [Log] X 
+2016-10-17 18:07:42,962 INFO  [Log] X 
+2016-10-17 18:07:42,962 INFO  [Log] X 
+2016-10-17 18:07:42,962 INFO  [Log] X 
+2016-10-17 18:09:51,682 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:09:51,683 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:09:51,683 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:09:51,683 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:09:51,683 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:05,573 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:10:05,573 INFO  [Log] X 
+2016-10-17 18:10:05,573 INFO  [Log] X 
+2016-10-17 18:10:05,573 INFO  [Log] X 
+2016-10-17 18:10:05,573 INFO  [Log] X 
+2016-10-17 18:10:05,589 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:05,589 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:05,589 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:10:05,589 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:05,589 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:05,604 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:10:05,604 INFO  [Log] X 
+2016-10-17 18:10:05,604 INFO  [Log] X 
+2016-10-17 18:10:05,604 INFO  [Log] X 
+2016-10-17 18:10:05,604 INFO  [Log] X 
+2016-10-17 18:10:39,338 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:39,339 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:39,339 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:10:39,339 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:39,339 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:53,897 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:10:53,897 INFO  [Log] X 
+2016-10-17 18:10:53,897 INFO  [Log] X 
+2016-10-17 18:10:53,897 INFO  [Log] X 
+2016-10-17 18:10:53,897 INFO  [Log] X 
+2016-10-17 18:10:53,916 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:53,917 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:53,917 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-17 18:10:53,917 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:10:53,917 INFO  [Log] **************************************************************************************** 
+2016-10-17 18:11:07,325 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-17 18:11:07,325 INFO  [Log] X 
+2016-10-17 18:11:07,325 INFO  [Log] X 
+2016-10-17 18:11:07,325 INFO  [Log] X 
+2016-10-17 18:11:07,325 INFO  [Log] X 
+2016-10-18 10:09:47,456 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:09:47,457 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:09:47,457 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:09:47,457 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:09:47,460 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:10:02,540 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:10:02,540 INFO  [Log] X 
+2016-10-18 10:10:02,540 INFO  [Log] X 
+2016-10-18 10:10:02,540 INFO  [Log] X 
+2016-10-18 10:10:02,540 INFO  [Log] X 
+2016-10-18 10:10:02,550 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:10:02,551 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:10:02,551 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:10:02,551 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:10:02,551 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:10:15,827 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:10:15,827 INFO  [Log] X 
+2016-10-18 10:10:15,827 INFO  [Log] X 
+2016-10-18 10:10:15,827 INFO  [Log] X 
+2016-10-18 10:10:15,828 INFO  [Log] X 
+2016-10-18 10:14:08,764 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:08,765 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:08,765 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:14:08,765 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:08,765 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:22,786 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:14:22,786 INFO  [Log] X 
+2016-10-18 10:14:22,786 INFO  [Log] X 
+2016-10-18 10:14:22,786 INFO  [Log] X 
+2016-10-18 10:14:22,786 INFO  [Log] X 
+2016-10-18 10:14:22,799 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:22,800 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:22,800 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:14:22,800 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:22,800 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:14:22,816 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:14:22,816 INFO  [Log] X 
+2016-10-18 10:14:22,816 INFO  [Log] X 
+2016-10-18 10:14:22,816 INFO  [Log] X 
+2016-10-18 10:14:22,816 INFO  [Log] X 
+2016-10-18 10:19:27,533 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:27,533 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:27,533 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:19:27,533 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:27,533 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:41,148 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:19:41,148 INFO  [Log] X 
+2016-10-18 10:19:41,148 INFO  [Log] X 
+2016-10-18 10:19:41,148 INFO  [Log] X 
+2016-10-18 10:19:41,148 INFO  [Log] X 
+2016-10-18 10:19:41,159 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:41,160 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:41,160 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:19:41,160 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:41,160 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:19:41,177 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:19:41,177 INFO  [Log] X 
+2016-10-18 10:19:41,177 INFO  [Log] X 
+2016-10-18 10:19:41,177 INFO  [Log] X 
+2016-10-18 10:19:41,177 INFO  [Log] X 
+2016-10-18 10:21:57,154 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:21:57,154 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:21:57,154 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:21:57,155 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:21:57,155 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:22:10,951 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:22:10,951 INFO  [Log] X 
+2016-10-18 10:22:10,951 INFO  [Log] X 
+2016-10-18 10:22:10,951 INFO  [Log] X 
+2016-10-18 10:22:10,951 INFO  [Log] X 
+2016-10-18 10:22:10,964 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:22:10,964 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:22:10,964 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:22:10,964 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:22:10,964 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:23:17,218 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:23:17,218 INFO  [Log] X 
+2016-10-18 10:23:17,218 INFO  [Log] X 
+2016-10-18 10:23:17,218 INFO  [Log] X 
+2016-10-18 10:23:17,219 INFO  [Log] X 
+2016-10-18 10:25:17,436 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:25:17,437 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:25:17,437 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:25:17,437 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:25:17,437 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:25:31,267 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:25:31,267 INFO  [Log] X 
+2016-10-18 10:25:31,267 INFO  [Log] X 
+2016-10-18 10:25:31,267 INFO  [Log] X 
+2016-10-18 10:25:31,267 INFO  [Log] X 
+2016-10-18 10:25:31,278 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:25:31,279 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:25:31,279 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:25:31,279 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:25:31,279 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:26:34,480 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:26:34,480 INFO  [Log] X 
+2016-10-18 10:26:34,480 INFO  [Log] X 
+2016-10-18 10:26:34,480 INFO  [Log] X 
+2016-10-18 10:26:34,480 INFO  [Log] X 
+2016-10-18 10:28:30,939 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:28:30,939 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:28:30,939 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:28:30,939 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:28:30,939 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:28:44,806 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:28:44,806 INFO  [Log] X 
+2016-10-18 10:28:44,806 INFO  [Log] X 
+2016-10-18 10:28:44,806 INFO  [Log] X 
+2016-10-18 10:28:44,806 INFO  [Log] X 
+2016-10-18 10:33:57,608 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:33:57,608 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:33:57,608 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:33:57,608 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:33:57,608 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:34:11,369 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:34:11,369 INFO  [Log] X 
+2016-10-18 10:34:11,370 INFO  [Log] X 
+2016-10-18 10:34:11,370 INFO  [Log] X 
+2016-10-18 10:34:11,370 INFO  [Log] X 
+2016-10-18 10:35:48,204 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:35:48,204 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:35:48,205 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:35:48,205 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:35:48,205 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:36:02,034 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:36:02,034 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:36:02,034 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyErrorLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:36:02,034 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:36:02,035 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:36:02,057 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:36:02,058 INFO  [Log] X 
+2016-10-18 10:36:02,058 INFO  [Log] X 
+2016-10-18 10:36:02,058 INFO  [Log] X 
+2016-10-18 10:36:02,058 INFO  [Log] X 
+2016-10-18 10:37:35,681 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:37:35,681 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:37:35,681 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:37:35,681 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:37:35,681 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:37:49,654 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:37:49,654 INFO  [Log] X 
+2016-10-18 10:37:49,654 INFO  [Log] X 
+2016-10-18 10:37:49,654 INFO  [Log] X 
+2016-10-18 10:37:49,654 INFO  [Log] X 
+2016-10-18 10:38:35,623 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:38:35,624 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:38:35,624 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:38:35,624 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:38:35,624 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:39:04,773 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:39:04,774 INFO  [Log] X 
+2016-10-18 10:39:04,774 INFO  [Log] X 
+2016-10-18 10:39:04,774 INFO  [Log] X 
+2016-10-18 10:39:04,774 INFO  [Log] X 
+2016-10-18 10:39:35,757 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:39:35,758 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:39:35,758 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:39:35,758 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:39:35,758 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:40:04,945 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:40:04,946 INFO  [Log] X 
+2016-10-18 10:40:04,946 INFO  [Log] X 
+2016-10-18 10:40:04,946 INFO  [Log] X 
+2016-10-18 10:40:04,946 INFO  [Log] X 
+2016-10-18 10:43:21,776 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:43:21,777 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:43:21,777 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:43:21,777 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:43:21,777 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:43:51,034 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:43:51,034 INFO  [Log] X 
+2016-10-18 10:43:51,035 INFO  [Log] X 
+2016-10-18 10:43:51,035 INFO  [Log] X 
+2016-10-18 10:43:51,035 INFO  [Log] X 
+2016-10-18 10:44:17,164 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:44:17,165 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:44:17,165 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:44:17,165 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:44:17,165 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:44:46,260 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:44:46,261 INFO  [Log] X 
+2016-10-18 10:44:46,261 INFO  [Log] X 
+2016-10-18 10:44:46,261 INFO  [Log] X 
+2016-10-18 10:44:46,261 INFO  [Log] X 
+2016-10-18 10:51:40,671 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:51:40,671 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:51:40,671 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:51:40,671 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:51:40,671 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:52:20,337 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:52:20,337 INFO  [Log] X 
+2016-10-18 10:52:20,337 INFO  [Log] X 
+2016-10-18 10:52:20,337 INFO  [Log] X 
+2016-10-18 10:52:20,337 INFO  [Log] X 
+2016-10-18 10:55:36,598 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:55:36,598 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:55:36,599 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:55:36,599 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:55:36,599 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:56:08,943 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:56:08,943 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:56:08,943 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:56:08,943 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:56:08,943 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:56:16,256 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:56:16,256 INFO  [Log] X 
+2016-10-18 10:56:16,256 INFO  [Log] X 
+2016-10-18 10:56:16,256 INFO  [Log] X 
+2016-10-18 10:56:16,256 INFO  [Log] X 
+2016-10-18 10:59:15,434 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:15,434 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:15,434 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:59:15,435 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:15,435 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:47,473 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:47,473 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:47,473 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 10:59:47,473 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:47,473 INFO  [Log] **************************************************************************************** 
+2016-10-18 10:59:57,721 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 10:59:57,721 INFO  [Log] X 
+2016-10-18 10:59:57,721 INFO  [Log] X 
+2016-10-18 10:59:57,722 INFO  [Log] X 
+2016-10-18 10:59:57,722 INFO  [Log] X 
+2016-10-18 11:03:32,657 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:03:32,658 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:03:32,658 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 11:03:32,658 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:03:32,658 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:04:04,685 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:04:04,685 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:04:04,685 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 11:04:04,685 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:04:04,685 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:04:14,863 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 11:04:14,863 INFO  [Log] X 
+2016-10-18 11:04:14,863 INFO  [Log] X 
+2016-10-18 11:04:14,863 INFO  [Log] X 
+2016-10-18 11:04:14,863 INFO  [Log] X 
+2016-10-18 11:09:20,855 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:09:20,856 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:09:20,856 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 11:09:20,856 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:09:20,856 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:09:53,388 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:09:53,388 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:09:53,388 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 11:09:53,388 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:09:53,388 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:10:03,907 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 11:10:03,907 INFO  [Log] X 
+2016-10-18 11:10:03,907 INFO  [Log] X 
+2016-10-18 11:10:03,907 INFO  [Log] X 
+2016-10-18 11:10:03,907 INFO  [Log] X 
+2016-10-18 11:40:24,821 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:40:24,822 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:40:24,822 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 verifyCSRLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 11:40:24,822 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:40:24,822 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:40:45,016 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 11:40:45,016 INFO  [Log] X 
+2016-10-18 11:40:45,016 INFO  [Log] X 
+2016-10-18 11:40:45,016 INFO  [Log] X 
+2016-10-18 11:40:45,016 INFO  [Log] X 
+2016-10-18 11:42:43,636 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:42:43,639 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:42:43,640 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 11:42:43,642 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:42:43,642 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:43:15,928 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:43:15,928 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:43:15,928 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 11:43:15,928 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:43:15,928 INFO  [Log] **************************************************************************************** 
+2016-10-18 11:43:26,100 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 11:43:26,100 INFO  [Log] X 
+2016-10-18 11:43:26,101 INFO  [Log] X 
+2016-10-18 11:43:26,101 INFO  [Log] X 
+2016-10-18 11:43:26,101 INFO  [Log] X 
+2016-10-18 14:05:23,487 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:05:23,488 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:05:23,488 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:05:23,489 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:05:23,489 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:05:43,552 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:05:43,554 INFO  [Log] X 
+2016-10-18 14:05:43,554 INFO  [Log] X 
+2016-10-18 14:05:43,554 INFO  [Log] X 
+2016-10-18 14:05:43,554 INFO  [Log] X 
+2016-10-18 14:15:17,256 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:15:17,257 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:15:17,257 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:15:17,257 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:15:17,257 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:15:45,508 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:15:45,509 INFO  [Log] X 
+2016-10-18 14:15:45,509 INFO  [Log] X 
+2016-10-18 14:15:45,509 INFO  [Log] X 
+2016-10-18 14:15:45,509 INFO  [Log] X 
+2016-10-18 14:18:52,568 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:18:52,569 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:18:52,569 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:18:52,569 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:18:52,569 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:19:20,363 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:19:20,363 INFO  [Log] X 
+2016-10-18 14:19:20,363 INFO  [Log] X 
+2016-10-18 14:19:20,363 INFO  [Log] X 
+2016-10-18 14:19:20,364 INFO  [Log] X 
+2016-10-18 14:20:50,853 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:20:50,855 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:20:50,855 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:20:50,855 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:20:50,855 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:21:18,801 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:21:18,801 INFO  [Log] X 
+2016-10-18 14:21:18,802 INFO  [Log] X 
+2016-10-18 14:21:18,802 INFO  [Log] X 
+2016-10-18 14:21:18,802 INFO  [Log] X 
+2016-10-18 14:25:09,366 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:25:09,367 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:25:09,367 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 OAPverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:25:09,367 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:25:09,367 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:25:53,086 ERROR [Log] Expection occured while executing test case:OAPverifyLoginandLogOut :org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.03 seconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'E4ML14557', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Mindtree\AppData\Local\Temp\scoped_dir1028_5897}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 14b70baecc53ca7807a3118928fa983a 
+2016-10-18 14:25:57,113 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:25:57,113 INFO  [Log] X 
+2016-10-18 14:25:57,113 INFO  [Log] X 
+2016-10-18 14:25:57,114 INFO  [Log] X 
+2016-10-18 14:25:57,114 INFO  [Log] X 
+2016-10-18 14:55:57,449 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:55:57,450 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:55:57,450 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:55:57,450 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:55:57,450 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:56:16,203 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:56:16,204 INFO  [Log] X 
+2016-10-18 14:56:16,204 INFO  [Log] X 
+2016-10-18 14:56:16,204 INFO  [Log] X 
+2016-10-18 14:56:16,204 INFO  [Log] X 
+2016-10-18 14:57:24,034 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:57:24,035 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:57:24,035 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:57:24,035 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:57:24,035 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:57:42,776 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:57:42,776 INFO  [Log] X 
+2016-10-18 14:57:42,776 INFO  [Log] X 
+2016-10-18 14:57:42,776 INFO  [Log] X 
+2016-10-18 14:57:42,776 INFO  [Log] X 
+2016-10-18 14:58:15,950 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:58:15,950 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:58:15,950 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 14:58:15,950 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:58:15,950 INFO  [Log] **************************************************************************************** 
+2016-10-18 14:58:30,681 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 14:58:30,681 INFO  [Log] X 
+2016-10-18 14:58:30,681 INFO  [Log] X 
+2016-10-18 14:58:30,681 INFO  [Log] X 
+2016-10-18 14:58:30,681 INFO  [Log] X 
+2016-10-18 15:01:36,621 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:01:36,622 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:01:36,622 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:01:36,622 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:01:36,622 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:01:52,337 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:01:52,337 INFO  [Log] X 
+2016-10-18 15:01:52,337 INFO  [Log] X 
+2016-10-18 15:01:52,337 INFO  [Log] X 
+2016-10-18 15:01:52,337 INFO  [Log] X 
+2016-10-18 15:02:24,863 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:02:24,863 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:02:24,863 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:02:24,863 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:02:24,863 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:02:42,712 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:02:42,712 INFO  [Log] X 
+2016-10-18 15:02:42,712 INFO  [Log] X 
+2016-10-18 15:02:42,712 INFO  [Log] X 
+2016-10-18 15:02:42,713 INFO  [Log] X 
+2016-10-18 15:03:43,501 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:03:43,501 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:03:43,501 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:03:43,501 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:03:43,501 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:05:26,274 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:05:26,275 INFO  [Log] X 
+2016-10-18 15:05:26,275 INFO  [Log] X 
+2016-10-18 15:05:26,275 INFO  [Log] X 
+2016-10-18 15:05:26,275 INFO  [Log] X 
+2016-10-18 15:06:34,952 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:06:34,953 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:06:34,953 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:06:34,953 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:06:34,953 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:06:45,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:06:45,003 INFO  [Log] X 
+2016-10-18 15:06:45,003 INFO  [Log] X 
+2016-10-18 15:06:45,004 INFO  [Log] X 
+2016-10-18 15:06:45,004 INFO  [Log] X 
+2016-10-18 15:09:25,218 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:09:25,219 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:09:25,219 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:09:25,219 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:09:25,219 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:10:31,893 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:10:31,893 INFO  [Log] X 
+2016-10-18 15:10:31,893 INFO  [Log] X 
+2016-10-18 15:10:31,893 INFO  [Log] X 
+2016-10-18 15:10:31,893 INFO  [Log] X 
+2016-10-18 15:14:08,745 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:14:08,745 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:14:08,745 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:14:08,745 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:14:08,745 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:14:18,548 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:14:18,548 INFO  [Log] X 
+2016-10-18 15:14:18,549 INFO  [Log] X 
+2016-10-18 15:14:18,549 INFO  [Log] X 
+2016-10-18 15:14:18,549 INFO  [Log] X 
+2016-10-18 15:15:14,381 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:14,382 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:14,382 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:15:14,382 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:14,382 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:15,039 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:15,039 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:15,039 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLoginandLogOut       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-18 15:15:15,039 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:15,039 INFO  [Log] **************************************************************************************** 
+2016-10-18 15:15:25,099 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:15:25,099 INFO  [Log] X 
+2016-10-18 15:15:25,099 INFO  [Log] X 
+2016-10-18 15:15:25,099 INFO  [Log] X 
+2016-10-18 15:15:25,099 INFO  [Log] X 
+2016-10-18 15:15:25,934 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-18 15:15:25,934 INFO  [Log] X 
+2016-10-18 15:15:25,934 INFO  [Log] X 
+2016-10-18 15:15:25,934 INFO  [Log] X 
+2016-10-18 15:15:25,934 INFO  [Log] X 
+2016-10-19 07:40:20,679 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:40:20,693 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:40:20,693 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-19 07:40:20,693 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:40:20,693 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:40:33,594 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-19 07:40:33,594 INFO  [Log] X 
+2016-10-19 07:40:33,594 INFO  [Log] X 
+2016-10-19 07:40:33,594 INFO  [Log] X 
+2016-10-19 07:40:33,594 INFO  [Log] X 
+2016-10-19 07:49:08,838 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:49:08,839 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:49:08,839 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-19 07:49:08,839 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:49:08,839 INFO  [Log] **************************************************************************************** 
+2016-10-19 07:49:15,663 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-19 07:49:15,666 INFO  [Log] X 
+2016-10-19 07:49:15,666 INFO  [Log] X 
+2016-10-19 07:49:15,666 INFO  [Log] X 
+2016-10-19 07:49:15,666 INFO  [Log] X 
+2016-10-19 08:08:20,071 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:08:20,072 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:08:20,073 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-19 08:08:20,073 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:08:20,073 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:08:27,145 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-19 08:08:27,146 INFO  [Log] X 
+2016-10-19 08:08:27,146 INFO  [Log] X 
+2016-10-19 08:08:27,146 INFO  [Log] X 
+2016-10-19 08:08:27,146 INFO  [Log] X 
+2016-10-19 08:11:10,937 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:11:10,938 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:11:10,938 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 CSRverifyLogin       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-19 08:11:10,938 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:11:10,938 INFO  [Log] **************************************************************************************** 
+2016-10-19 08:11:28,886 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-19 08:11:28,886 INFO  [Log] X 
+2016-10-19 08:11:28,886 INFO  [Log] X 
+2016-10-19 08:11:28,886 INFO  [Log] X 
+2016-10-19 08:11:28,886 INFO  [Log] X 

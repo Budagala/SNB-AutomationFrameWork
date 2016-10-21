@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.snb.automation.testcases.EmulationTestCase">
+        <methods>
+          <include name="globalSetUP"/>
+          <include name="CSREmulation"/>
+          <include name="setUP"/>
+          <include name="closeBrowser"/>
+          <include name="afterTestCompletes"/>
+        </methods>
+      </class> <!-- com.snb.automation.testcases.EmulationTestCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

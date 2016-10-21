@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SNB Automation Suite">
+
+	<!-- <listeners> <listener class-name="com.snb.automation.listeners.ScreenShotListeners"></listener> 
+		<listener class-name="com.snb.automation.listeners.RetryListener"></listener> 
+		</listeners> -->
+
+
+
+	<test name="SNB-CSR Portal TestCases">
+		<parameter name="projectURL"
+			value="http://localhost:7777/portalserver/snb-csr/index"></parameter>
+		<parameter name="reportType" value="./CSRTestReports/ExtentReport.html"></parameter>
+		<parameter name="browser" value="chrome"></parameter>
+	<classes>
+			<class name="com.snb.CSR.automation.testcases.SNBUSA41CSRLogin" />
+			<!-- <class name="com.snb.automation.testcases.CSRLandingPageTestCases"></class> -->
+			<!-- <class name="com.snb.automation.testcases.OAPLandingPageTestCase"></class> -->
+		</classes>
+	</test> <!-- Test -->
+
+
+</suite> <!-- Suite -->
