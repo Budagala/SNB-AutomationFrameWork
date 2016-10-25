@@ -13,7 +13,7 @@ import com.snb.automation.base.TestData;
 import com.snb.automation.objectrepository.OR;
 import com.snb.automation.utilities.Log;
 
-public class SNBUSA41CSRLogin extends TestBase {
+public class CSRLogin extends TestBase {
 
 	@Test 
 	public void CSRverifyLogin(){

@@ -31,28 +31,29 @@ div.shootout {padding:2em;border:3px #4854A8 solid}
 <body>
 <table cellspacing="0" cellpadding="0" class="result">
 <tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
-<tr><td style="text-align:left;padding-right:2em">SNB-CSR Portal TestCases</td><td class="numi">0</td><td class="numi">0</td><td class="numi">0</td><td class="numi_attn">1</td><td class="numi">23.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">SNB-CSR Portal TestCases</td><td class="numi">0</td><td class="numi">0</td><td class="numi">0</td><td class="numi_attn">1</td><td class="numi">13.9 seconds</td><td class="numi"></td><td class="numi"></td></tr>
 </table>
 <table cellspacing="0" cellpadding="0" class="passed" id="summary">
 <tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
 <tr><th colspan="4">SNB-CSR Portal TestCases &#8212; failed</th></tr>
-<tr class="failedodd"><td rowspan="1">com.snb.CSR.automation.testcases.SNBUSA41CSRLogin</td><td><a href="#m1"><b>CSRverifyLogin</b>  </a></td><td class="numi">1</td><td>1476844700057</td><td class="numi">7079</td></tr>
+<tr class="failedodd"><td rowspan="1">com.snb.OAP.automation.testcases.OAPLogout</td><td><a href="#m1"><b>OAPverifyLogOut</b>  </a></td><td class="numi">1</td><td>1477362262942</td><td class="numi">33</td></tr>
 </table>
 <h1>SNB-CSR Portal TestCases</h1>
-<h2 id="m1">com.snb.CSR.automation.testcases.SNBUSA41CSRLogin:CSRverifyLogin</h2>
-<div style="padding-left:3em">
-<p>org.openqa.selenium.WebDriverException: chrome not reachable
-  (Session info: chrome=53.0.2785.143)
-  (Driver info: chromedriver=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 4.02 seconds
-Build info: version: &apos;unknown&apos;, revision: &apos;c7b525d&apos;, time: &apos;2016-09-01 14:57:44 -0700&apos;
-System info: host: &apos;Ashok-PC&apos;, ip: &apos;192.168.0.10&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_101&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397933 (1cab651507b88dec79b2b2a22d1943c01833cc1b), userDataDir=C:\Users\Ashok\AppData\Local\Temp\scoped_dir2316_17056}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.143, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: fb6abbc6805d3ae448f48f77323434e8</p>
+<h2 id="m1">com.snb.OAP.automation.testcases.OAPLogout:OAPverifyLogOut</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>public void com.snb.OAP.automation.testcases.OAPLogout.OAPverifyLogOut(java.lang.reflect.Method)</td>
+</tr>
+<tr><td style="padding-left:3em" colspan="1">
+<p>expected [http://www.google.co.in] but found [https://www.google.co.in/?gws_rd=ssl]</p>
 org.testng.Assert.fail(Assert.java:94)
-<br/>at com.snb.CSR.automation.testcases.SNBUSA41CSRLogin.CSRverifyLogin(SNBUSA41CSRLogin.java:82)
-<br/>25 lines not shown
-</div>
+<br/>at org.testng.Assert.failNotEquals(Assert.java:494)
+<br/>at org.testng.Assert.assertEquals(Assert.java:123)
+<br/>at org.testng.Assert.assertEquals(Assert.java:176)
+<br/>at org.testng.Assert.assertEquals(Assert.java:186)
+<br/>at com.snb.OAP.automation.testcases.OAPLogout.OAPverifyLogOut(OAPLogout.java:25)
+<br/>21 lines not shown
+</td></tr>
+</table>
 <p class="totop"><a href="#summary">back to summary</a></p>
 </body></html>

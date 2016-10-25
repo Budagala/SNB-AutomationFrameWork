@@ -19,7 +19,7 @@ public class ExtentManager {
 	    
 		ExtentReports extent;
 		//extent = new ExtentReports(reportPath,true,NetworkMode.ONLINE);
-		extent = new ExtentReports(reportType,false,NetworkMode.ONLINE);
+		extent = new ExtentReports(reportType,true,NetworkMode.ONLINE);
 		extent.loadConfig(new File(Constants.reprotConfigFilePath));
 		return extent;
 
@@ -28,13 +28,13 @@ public class ExtentManager {
 	public static String CaptureScreen(WebDriver driver, String ImagesPath) {
 		TakesScreenshot oScn = (TakesScreenshot) driver;
 		File oScnShot = oScn.getScreenshotAs(OutputType.FILE);
-		File oDest = new File(ImagesPath + ".png");
+		File oDest = new File(ImagesPath + ".jpg");
 		try {
 			FileUtils.copyFile(oScnShot, oDest);
 		} catch (IOException e) {
 			System.out.println(e.getMessage());
 		}
-		return ImagesPath + ".png";
+		return ImagesPath + ".jpg";
 	}
 
 

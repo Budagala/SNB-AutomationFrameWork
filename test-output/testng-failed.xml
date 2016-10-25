@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [SNB Automation Suite]">
+<suite thread-count="2" name="Failed suite [SNB Automation Suite]" parallel="tests">
   <parameter name="reportType" value="./CSRTestReports/ExtentReport.html"/>
-  <parameter name="projectURL" value="http://localhost:7777/portalserver/snb-csr/index"/>
+  <parameter name="projectURL" value="http://www.google.co.in"/>
   <parameter name="browser" value="chrome"/>
-  <test name="SNB-CSR Portal TestCases(failed)">
+  <test name="SNB-CSR Portal TestCases(failed)" parallel="tests">
     <parameter name="reportType" value="./CSRTestReports/ExtentReport.html"/>
-    <parameter name="projectURL" value="http://localhost:7777/portalserver/snb-csr/index"/>
+    <parameter name="projectURL" value="http://www.google.co.in"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.snb.CSR.automation.testcases.SNBUSA41CSRLogin">
+      <class name="com.snb.OAP.automation.testcases.OAPLogout">
         <methods>
           <include name="globalSetUP"/>
-          <include name="CSRverifyLogin"/>
+          <include name="OAPverifyLogOut" invocation-numbers="0"/>
           <include name="closeBrowser"/>
           <include name="afterTestCompletes"/>
         </methods>
-      </class> <!-- com.snb.CSR.automation.testcases.SNBUSA41CSRLogin -->
+      </class> <!-- com.snb.OAP.automation.testcases.OAPLogout -->
     </classes>
   </test> <!-- SNB-CSR Portal TestCases(failed) -->
 </suite> <!-- Failed suite [SNB Automation Suite] -->
